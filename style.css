@@ -28,18 +28,16 @@ footer {
   padding: 30px;
   
 }
-nav {
+nav a {
   text-decoration: none;
   display: flex;
+  flex-direction: column;
+  margin:  0 70px;
   flex-wrap: nowrap;
-  margin:  0 80px;
+  gap:  0 70px;
    background-color: #A37D52;
   color: #D8C6B1;
   font-size: 24px;
-  padding: 10px 70px;
-}
-nav a {
-   text-decoration: none;
 }
   
 time {
