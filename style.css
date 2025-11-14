@@ -28,7 +28,7 @@ footer {
   padding: 30px;
   
 }
-nav a {
+nav {
   text-decoration: none;
   display: flex;
   flex-wrap: nowrap;
