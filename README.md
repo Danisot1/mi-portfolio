@@ -1,2 +1,3 @@
-Buenas, mi nombre es Daniel Terrén Arnau, vivo en un pueblo llamado Sot de Ferrer en la provincia de Castellón. Actualmente estoy estudiando el ciclo superior de DAW, en el que estamos aprendiendo a crear páginas web a traves de GitHub, lenguajes de programacion (HTML,CSS,Java...), metodologias de trabajo, como crear bases de datos y muchas mas cosas para ser programadores en un futuro.
-Adjunto el enlace directo a mi portfolio: https://danisot1.github.io/mi-portfolio/
+Mi portfolio
+Esta página web estara dedicada a mi portfolio, en ella encontraremos informacion personal, habilidades, mis proyectos, experiencia laboral y mi contacto: https://danisot1.github.io/mi-portfolio/
+Las tecnologias utilizadas han sido el pripio GitHub, lenguaje HTML y CSS
