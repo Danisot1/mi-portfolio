@@ -30,7 +30,8 @@ footer {
 nav a {
   text-decoration: none;
   margin: 50px;
-  border: solid 3px #A37D52;
+   background-color: #A37D52;
+  color: #D8C6B1;
   font-size: 24px;
 }
 
