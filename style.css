@@ -30,11 +30,11 @@ footer {
 }
 nav a {
   text-decoration: none;
-  margin:  0 7%;
+  margin:  0 70px;
    background-color: #A37D52;
   color: #D8C6B1;
   font-size: 24px;
-  padding: 10px 7%;
+  padding: 10px 70px;
 }
 time {
   color: #A37D52;
